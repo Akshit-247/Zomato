@@ -1,2 +1,2 @@
-# Zomato
-Zomato data analysis with numpy , pandas , matplotlib, seaborn 
+# Zomato Data Analysis and get insights of uers 
+used libary = numpy , pandas , matplotlib, seaborn 
